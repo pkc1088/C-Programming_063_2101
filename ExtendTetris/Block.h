@@ -21,7 +21,7 @@ public:
 		stop = false;
 		this->board = board;
 	}
-	//�ϼ�
+	//¿Ï¼º
 	bool can_place_on_board();
 	void draw_block(); 
 	void erase_block();
